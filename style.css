@@ -1,0 +1,56 @@
+body{
+  color:purple;
+  text-align:center; 
+    margin: 0;
+    padding-top: 30px;
+}
+img{
+  height:200px;
+  border-radius:80px;
+  border-style:solid;
+  padding:5px;
+}
+  p{
+    max-width:450px;
+    text-align:center;
+
+}
+#welcome{
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-right: 40px;
+    
+}
+h1{
+    color: purple;
+    font-family: fantasy;
+}
+h2{
+    color: purple;
+    font-family: fantasy;
+}
+#bio{
+    background-color: aliceblue;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 30px;
+    right:30px;
+    cursor: pointer;
+        
+}
+.links{
+    float: left;
+    color: firebrick;
+    font-family: cursive;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.links:hover{
+ background-color: blue;   
+}
